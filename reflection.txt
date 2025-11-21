@@ -1,0 +1,21 @@
+A description of your Data Portrait. What was the personal habit you were trying to track?
+
+After much deliberation between my many habits, I wanted to pick something I do often enough to track but not too often that it's basically just a daily habit, so I decided to pick how often I get to read comics, as it is something I do whenever I get free time but am not always able to do. I found the data set for this habit by finding one of my highest weekly hours on Webtoon from the past month.
+
+An instruction for the viewers on how to read your data portrait.
+
+The data portrait shows a main abstract shape that grows and then grows back to its small state before growing again and repeating that cycle. The color of the main shape illustrates how long that day was, the lightest green being the shortest time and the darkest red illustrating the longest time. Additionally, for each day, the shape will grow a certain amount to describe how long I spent and it will grow according to that speed, growing fast and a little for a short day and growing slowly and a lot for a long day. So for instance, a short day would be a light green shape growing a little bit pretty fast, and a long day would be a dark red growing a lot and pretty slowly. The day and how much time I spent is also in the console if you want to compare each data set from the week.
+
+Describe your design process. Include your numbered list and any other sketches or images that would help us better understand your process.
+
+My numbered list is mainly just a 7 item list including each day of that week with how long I spent on it, and all my other variables move based on that. One of the main variables that makes this piece move is called MoveRadius, which basically is a changing value that grows or shrinks depending on the day from that list and makes the size of the shapes grow or shrink corresponding to that day.
+
+Your overall reflection on the assignment:
+What did you learn about yourself through the process of self-tracking?
+
+I learned that as of recent I have not been able to really let myself read webtoon. This data set is from the last month and I had to pick the week with the highest amount because the other weeks really amounted to almost nothing. Even this week I have illustrated is kind of small with like 4 of the days being under one hour of leisure time. I'm going to try and work on letting myself work less.
+
+What was gained / lost through the process of data visualization? 
+
+I think the fact that it had to be abstracted made me have more fun just experimenting and messing around. A lot of my projects are orderly and thought out, but with this one I sat down with the mindset, "let's just mess around until I like it" and this is what I got and I actually really liked letting myself just mess around like that. I think it also made me think outside of the box with how to represent this data in a non-conventional way and that was nice.
+
